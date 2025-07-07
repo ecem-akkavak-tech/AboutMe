@@ -9,6 +9,7 @@ Contact me !
  
  ## Technologies & Tools 
 <div style="display: flex; flex-wrap: nowrap; gap: 5px; overflow-x: auto;">
+ <div style="display: flex; flex-wrap: wrap; gap: 10px;"> <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" /> <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-1DA362?style=for-the-badge&logo=android-studio&logoColor=white" /> <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" /> <img alt="MVVM" src="https://img.shields.io/badge/MVVM-FF9800?style=for-the-badge&logo=android&logoColor=white" /> <img alt="Room" src="https://img.shields.io/badge/Room-7E57C2?style=for-the-badge&logo=sqlite&logoColor=white" /> <img alt="Retrofit" src="https://img.shields.io/badge/Retrofit-00574B?style=for-the-badge&logo=android&logoColor=white" /> <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> </div>
   <img alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
   <img alt="Cypress" src="https://img.shields.io/badge/-cypress-%23BF360C?style=for-the-badge&logo=cypress&logoColor=white">
   <img alt="Selenide" src="https://img.shields.io/badge/Selenide-0D66A5?style=for-the-badge&logo=selenide&logoColor=white">
@@ -33,6 +34,6 @@ Contact me !
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="CSS3" src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=white">
-  <img alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&logo=tailwind css&logoColor=white">
+ 
 </div>
 
