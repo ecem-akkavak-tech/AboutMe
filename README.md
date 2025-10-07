@@ -32,9 +32,7 @@ Contact me!
 <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 8px;">
   <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
   <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-%23BF360C?style=for-the-badge&logo=cypress&logoColor=white">
-  <img alt="Selenide" src="https://img.shields.io/badge/Selenide-0D66A5?style=for-the-badge&logo=selenide&logoColor=white">
   <img alt="Chakram" src="https://img.shields.io/badge/Chakram-0A9A9A?style=for-the-badge&logo=chakram&logoColor=white">
-  <img alt="Mocha" src="https://img.shields.io/badge/-Mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white">
   <img alt="JMeter" src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white">
   <img alt="Jira" src="https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=4038C8">
   <img alt="Trello" src="https://img.shields.io/badge/Trello-0056D2?style=for-the-badge&logo=trello&logoColor=white">
